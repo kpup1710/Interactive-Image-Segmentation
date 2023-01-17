@@ -1,4 +1,4 @@
-# <div align="center">Pixta Interactive Segmentation</div>
+# <div align="center">Interactive Segmentation</div>
 
 ## <div align="center">Introduction</div>
 
