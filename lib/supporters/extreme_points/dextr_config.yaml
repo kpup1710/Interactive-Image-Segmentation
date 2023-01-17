@@ -1,0 +1,8 @@
+models_dir: lib/supporters/extreme_points/models
+model_name: dextr_pascal-sbd
+classifier: psp
+
+pad: 50
+thres: 0.8
+min_thres: 0.5
+max_thres: 0.9
